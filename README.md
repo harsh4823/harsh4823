@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on: **E-commerce Backend using Spring Boot, JWT, MySQL**
 - 🌱 I’m currently learning: **React, DevOps Basics, Spring Security OAuth**
 - 🛠️ Tech I use: **Java, Spring Boot, Hibernate, JPA, JWT, MySQL, React**
-- 👨‍💻 Most of my projects are available on: [github.com/harsh4823](https://github.com/harsh4823)
+- 👨‍💻 Most of my projects are available on: (https://github.com/harsh4823)
 - 💬 Ask me about: **Spring Boot, JPA, REST APIs, JWT Authentication**
-- 📫 How to reach me: **harsh4823@gmail.com**
+- 📫 How to reach me: **harsh924823@gmail.com**
 - ⚡ Fun fact: I debug errors better at night 🌙
 
  
