@@ -67,7 +67,7 @@ Here are some of my highlighted repositories:
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harsh4823/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-jain-572701322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harsh4823@gmail.com">
