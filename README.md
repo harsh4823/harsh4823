@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning: **React, Spring Security OAuth**  
 - 👯 I’m looking to collaborate on: **Open-source Spring Boot or React projects**  
 - 💬 Ask me about: **Spring Boot, JPA, Hibernate, JWT, MySQL**  
-- 📫 How to reach me: [harsh924823@gmail.com]** | [https://www.linkedin.com/in/harsh-jain-572701322/]**  
-- ⚡ Fun fact: I can explain complicated backend logic in simple terms!
-
+- 📫 How to reach me: [harsh924823@gmail.com]** | [https://www.linkedin.com/
 ---
 
 ### 🛠️ Tech Stack
