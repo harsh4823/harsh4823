@@ -13,4 +13,7 @@
 ```java
 Backend   : Spring Boot, Hibernate, Spring Security, MySQL , Swagger  
 Frontend  : HTML, CSS, JavaScript, React , TailwindCSS  
-Tools     : Postman, Git, GitHub, VS Code, IntelliJ  
+Tools     : Postman, Git, GitHub, VS Code, IntelliJ
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshjain&show_icons=true&theme=radical" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjain&theme=radical" width="45%" /> </p>
