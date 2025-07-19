@@ -30,12 +30,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center" style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh4823&show_icons=true&theme=radical" width="50%" height="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh4823&show_icons=true&theme=radical" width="50%"/>
 </p>
 
-<p align="center" style="display:flex">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh4823&theme=radical" width="50%" height="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh4823&theme=radical" width="50%" />
 </p>
 
 ---
