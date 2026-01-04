@@ -3,8 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on: **E-commerce FrontEnd using React,TailWind,Redux**
-- 🌱 I’m currently learning: **React , Spring Security OAuth**
+- 🌱 I’m currently learning: **Spring AI**
 - 🛠️ Tech I use: **Java, Spring Boot, Hibernate, JPA, JWT, MySQL, React**
 - 👨‍💻 Most of my projects are available on: (https://github.com/harsh4823)
 - 💬 Ask me about: **Spring Boot, JPA, REST APIs, JWT Authentication**
