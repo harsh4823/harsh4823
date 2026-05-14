@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Engineer · Security & Auth Infrastructure · Java / Spring Boot</b><br/>
-  <sub>B.Tech Artificial Intelligence · ADGITM, Delhi · Placement 2025–26</sub>
+  <sub>B.Tech Artificial Intelligence · ADGITM, Delhi ·</sub>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:harsh924823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/harsh4823" target="_blank">
+  <a href="https://leetcode.com/harsh924823" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -25,8 +25,7 @@ I'm a backend-focused developer with a strong interest in **auth infrastructure,
 
 - 🔐 Built a **Keycloak-like IAM server** from scratch: multi-tenant, OAuth2/OIDC compliant, RS256, JWKS, token introspection
 - ⚙️ Comfortable with **Redis**, **Docker**, **PostgreSQL**, **Spring Security**, and OAuth2 flows end-to-end
-- 🧠 **400+ LeetCode** problems solved · Competed in **Adobe Hackathon**, **HackWithInfy**, **Trilogy Intern Rounds**
-- 🚀 Currently building a **Multi-Tenant AI Platform** using Spring AI
+- 🧠 **450+ LeetCode** problems solved .
 - 📍 Delhi, India
 
 ---
@@ -103,8 +102,7 @@ Fully functional e-commerce backend with product catalog, cart, orders, and JWT-
 
 | Platform | Stats |
 |---|---|
-| LeetCode | 400+ problems solved |
-| Contests | Adobe Hackathon, HackWithInfy, Trilogy Intern Rounds |
+| LeetCode | 450+ problems solved |
 | Focus | Dynamic Programming, Graphs, Trees, Sliding Window, DSU |
 
 ---
